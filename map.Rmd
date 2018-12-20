@@ -101,6 +101,8 @@ m = addLayersControl(m,
 
 ## Map
 
+Date: 12/20/2018
+
 ```{r, echo=FALSE}
 # show map
 m
